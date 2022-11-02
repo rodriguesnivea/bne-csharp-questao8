@@ -1,0 +1,15 @@
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\questao08.csproj.AssemblyReference.cache
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\questao08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\questao08.AssemblyInfoInputs.cache
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\questao08.AssemblyInfo.cs
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\questao08.csproj.CoreCompileInputs.cache
+C:\Users\Nivea\Desktop\projetos.C#\questao08\bin\Debug\net6.0\questao08.exe
+C:\Users\Nivea\Desktop\projetos.C#\questao08\bin\Debug\net6.0\questao08.deps.json
+C:\Users\Nivea\Desktop\projetos.C#\questao08\bin\Debug\net6.0\questao08.runtimeconfig.json
+C:\Users\Nivea\Desktop\projetos.C#\questao08\bin\Debug\net6.0\questao08.dll
+C:\Users\Nivea\Desktop\projetos.C#\questao08\bin\Debug\net6.0\questao08.pdb
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\questao08.dll
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\refint\questao08.dll
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\questao08.pdb
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\questao08.genruntimeconfig.cache
+C:\Users\Nivea\Desktop\projetos.C#\questao08\obj\Debug\net6.0\ref\questao08.dll
